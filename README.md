@@ -27,7 +27,7 @@ For example, say that our world is a one-lane road, and we know that the current
 ```state = [0, 50]
 ```
 
-<img src="screen-shot-1.png" width=400 height=120 >
+<img src="screen-shot-1.png" width=400 height=200 >
 <br/><br/>
 
 ### Predicting State:
@@ -40,7 +40,7 @@ Every second it moves 50m.
 
 So, after three seconds, it will have reached the 150m mark and its velocity will not have changed (that's what a constant velocity means)!
 
-<img src="screen-shot-2.png" width=400 height=120 >
+<img src="screen-shot-2.png" width=400 height=200 >
 <br/><br/>
 
 ### Motion Model:
